@@ -1,0 +1,258 @@
+
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Arron Tillman",
+            "gender": "Male",
+            "age": "08/10/98",
+            "school_name": "Wildwood Institute",
+            "city": "Carshalton (US)",
+            "address": "Wrythe Ln",
+            "phone": "020 8296 2000",
+            "email": "Arron.T@gmail.com",
+            "src": ""
+        },
+        {
+            "id": 2,
+            "name": "Edna Lester",
+            "gender": "Transgender",
+            "age": "05/08/94",
+            "school_name": "Wildwood Institute",
+            "city": "Macclesfield (UK)",
+            "address": "145 Chester Rd",
+            "phone": "01625 423694",
+            "email": "Edna.L@gmail.com",
+            "src": ""
+        
+        }, {
+            "id": 3,
+            "name": "Faiza Carey",
+            "gender": "Male",
+            "age": "07/03/84",
+            "school_name": "Tranquillity University",
+            "city": "Southampton (UK)",
+            "address": "112 East St",
+            "phone": "023 8022 7923",
+            "email": "Faiza.C@gmail.com",
+            "src": ""
+        
+        }, {
+            "id": 4,
+            "name": "Troy Busby",
+            "gender": "Male",
+            "age": "07/27/95",
+            "school_name": "Wildwood Institute",
+            "city": "Birmingham (UK)",
+            "address": "337 Harborne Ln",
+            "phone": "0121 472 7235",
+            "email": "Troy.B@gmail.com",
+            "src": ""
+        
+        }, {
+            "id": 5,
+            "name": "Tahlia Buchanan",
+            "gender": "Female",
+            "age": "06/24/91",
+            "school_name": "Tranquillity University",
+            "city": "Rotherham (UK)",
+            "address": "34 Mansfield Rd",
+            "phone": "01709 365116",
+            "email": "Tahlia.B@gmail.com",
+            "src": ""
+        
+        }, {
+            "id": 6,
+            "name": "Coby Holland",
+            "gender": "Male",
+            "age": "01/06/97",
+            "school_name": "Wildwood Institute",
+            "city": "Bristol (UK)",
+            "address": "88 Colston St",
+            "phone": "0117 926 8961",
+            "email": "Coby.H@gmail.com",
+            "src": ""
+        
+        }, {
+            "id": 7,
+            "name": "Jordan Easton",
+            "gender": "Transgender",
+            "age": "05/30/95",
+            "school_name": "Tranquillity University",
+            "city": "Lambeth (UK)",
+            "address": "653 Portslade Rd",
+            "phone": "020 7720 3937",
+            "email": "Jordan.E@gmail.com",
+            "src": ""
+        
+        }, {
+            "id": 8,
+            "name": "Desiree Conner",
+            "gender": "Female",
+            "age": "02/13/93",
+            "school_name": "Wildwood Institute",
+            "city": "Crickhowell (UK)",
+            "address": "47 High St",
+            "phone": "01873 810362",
+            "email": "Desiree.C@gmail.com",
+            "src": ""
+        
+        },
+        {
+            "id": 9,
+            "name": "Diogo Harmon",
+            "gender": "Male",
+            "age": "03/23/92",
+            "school_name": "Wildwood Institute",
+            "city": "Thatcham (UK)",
+            "address": "2 Magpie Close",
+            "phone": "0845 293 0778",
+            "email": "Diogo.H@gmail.com",
+            "src": ""
+        
+        },
+        {
+            "id": 10,
+            "name": "Roshan Solis",
+            "gender": "Transgender",
+            "age": "07/21/94",
+            "school_name": "Tranquillity University",
+            "city": "Melksham (UK)",
+            "address": "Bath Rd",
+            "phone": "01380 827111",
+            "email": "Roshan.S@gmail.com",
+            "src": "Ellipse10.png"
+        
+        },
+        {
+            "id": 11,
+            "name": "Tommy Rhodes",
+            "gender": "Male",
+            "age": "11/28/85",
+            "school_name": "Tranquillity University",
+            "city": "Worksop (UK)",
+            "address": "Bridge St",
+            "phone": "01909 481900",
+            "email": "Tommy.R@gmail.com",
+            "src": "Ellipse11.png"
+        
+        },
+        {
+            "id": 12,
+            "name": "Marianna Wickens",
+            "gender": "Female",
+            "age": "05/28/02",
+            "school_name": "Wildwood Institute",
+            "city": "Edinburgh (UK)",
+            "address": "31 W Bowling Green St",
+            "phone": "0131 554 7077",
+            "email": "Marianna.W@gmail.com",
+            "src": "Ellipse12.png"
+        
+        },
+        {
+            "id": 13,
+            "name": "Curtis Terry",
+            "gender": "Male",
+            "age": "08/19/93",
+            "school_name": "Wildwood Institute",
+            "city": "Bristol",
+            "address": "Picton St",
+            "phone": "07526 752704",
+            "email": "Curtis.T@gmail.com",
+            "src": "Ellipse13.png"
+        
+        },
+        {
+            "id": 14,
+            "name": "Sila O'Moore",
+            "gender": "Transgender",
+            "age": "03/30/82",
+            "school_name": "Tranquillity University",
+            "city": "Leatherhead (UK)",
+            "address": "Oaklawn Rd",
+            "phone": "01372 843453",
+            "email": "Sila.T@gmail.com",
+            "src": "Ellipse14.png"
+        
+        },
+        {
+            "id": 15,
+            "name": "Jak O'Connor",
+            "gender": "Male",
+            "age": "10/16/93",
+            "school_name": "Wildwood Institute",
+            "city": "Evesham (UK)",
+            "address": "68 Bridge St",
+            "phone": "01386 49704",
+            "email": "Jak.O@gmail.com",
+            "src": "Ellipse15.png"
+        
+        },
+        {
+            "id": 16,
+            "name": "Dannielle Rivers",
+            "gender": "Female",
+            "age": "12/06/92",
+            "school_name": "Palm Valley College",
+            "city": "Port Talbot (UK)",
+            "address": "Margam",
+            "phone": "01639 881635",
+            "email": "Dannielle.R@gmail.com",
+            "src": ""
+        
+        },
+        {
+            "id": 17,
+            "name": "Antonio Brock",
+            "gender": "Transgender",
+            "age": "10/31/90",
+            "school_name": "Wildwood Institute",
+            "city": "Birmingham (UK)",
+            "address": "11 York Rd",
+            "phone": "0121 382 7733",
+            "email": "Antonio.B@gmail.com",
+            "src": ""
+        
+        },
+        {
+            "id": 18,
+            "name": "Jed Gale",
+            "gender": "Male",
+            "age": "12/30/91",
+            "school_name": "Wildwood Institute",
+            "city": "Beckton (UK)",
+            "address": "1 Triumph Rd",
+            "phone": "020 7511 4488",
+            "email": "Jed.G@gmail.com",
+            "src": ""
+        
+        },
+        {
+            "id": 19,
+            "name": "Elara Rush",
+            "gender": "Female",
+            "age": "08/30/96",
+            "school_name": "Palm Valley College",
+            "city": "Romford (UK)",
+            "address": "7 Market Pl",
+            "phone": "01708 743100",
+            "email": "Elara.R@gmail.com",
+            "src": ""
+        
+        },
+        {
+            "id": 20,
+            "name": "Raul Bush",
+            "gender": "Male",
+            "age": "09/02/89",
+            "school_name": "Wildwood Institute",
+            "city": "Milton Keynes (UK)",
+            "address": "72 The High St",
+            "phone": "01908 263344",
+            "email": "Raul.B@gmail.com",
+            "src": ""
+        
+        }
+    ]
+}
